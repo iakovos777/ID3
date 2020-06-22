@@ -1,0 +1,7 @@
+| attributes
+
+sepal-length: 4.3-7.9 continuous
+sepal-width: 2.0-4.4 continuous
+petal-length: 1.0-6.9 continuous
+petal-width: 0.1-2.5 continuous
+class: Iris-Setosa,Iris-Versicolor,Iris-Virginica 
